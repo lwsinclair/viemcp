@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/ccbbccbb-viemcp-badge.png)](https://mseep.ai/app/ccbbccbb-viemcp)
+
 <div align="center">
 
   <img src="site/public/viemcp-logo-blanc.png" alt="viemcp" />
